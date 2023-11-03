@@ -12,6 +12,6 @@ A website that offers SEO consultation.
 N/A 
 
 ## Contributions
-Made with ❤️ by Monet Montgomery. 
+Made with ❤️ by Monet Montgomery, starter code provided by University of California Berkeley Coding Bootcamp.
 
 ![horiseon website](./assets/images/horiseon.png)
