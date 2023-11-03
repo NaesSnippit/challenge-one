@@ -2,7 +2,7 @@
 
 
 ## Purpose
-A website that offers SEO consultation
+A website that offers SEO consultation. 
 
 ## Built With
 * HTML
