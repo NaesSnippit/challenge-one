@@ -12,6 +12,6 @@ A website that offers SEO consultation.
 N/A 
 
 ## Contributions
-Made with ❤️ by Jorge Navarro
+Made with ❤️ by Monet Montgomery. 
 
 ![horiseon website](./assets/images/horiseon.png)
